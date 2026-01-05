@@ -8,6 +8,11 @@ This repository includes three implementations of the proposed compressive stren
 - File: python_code
 - Description: This folder contains a standalone Python implementation of the app.
 - Usage: Users can copy and paste the code then run the code locally using Python on their personal computer.
+  - **File:** `app.py`  
+- **Description:**  
+  This file contains the Python code used to deploy the web-based application using Streamlit.
+- **Access:**  
+  The web application can be accessed directly via the Streamlit link provided in the associated paper.
 ### 3. MATLAB App Designer Implementation  
  File: Matlab.mlapp
 Access: The MATLAB application is provided as an App Designer file (`.mlapp`) and can be run on personal computers with MATLAB installed. 
