@@ -4,7 +4,7 @@ from tkinter import ttk
 class PredictedCSApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Python app")
+        self.root.title("Python App")
         self.root.geometry("720x760")
         self.root.configure(bg="#f2e1e1")  # light pink background
 
@@ -179,4 +179,5 @@ class PredictedCSApp:
 if __name__ == "__main__":
     root = tk.Tk()
     app = PredictedCSApp(root)
+
     root.mainloop()
