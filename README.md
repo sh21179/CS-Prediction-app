@@ -7,16 +7,16 @@ This repository includes three implementations of the proposed compressive stren
 - Click Clear to reset.
 
 ### 1. Web Application (Streamlit)
-- **File:** `app.py`  
+- **File:** `app.py`
 - **Description:**  
   This file contains the Python code for deploying the web-based application using Streamlit.
 - **Usage:**  
   Users can access the application directly via the Streamlit link provided in the associated research paper, without needing to install any software.
 
   ### 2. Python App  Implementation
-- **File:** `Python.py`  
+- **File:** `Python.py`
 - **Description:**  
-  This file contains a standalone Python implementation of the app that can run on personal computers with Python installed (free). 
+  This file contains a standalone Python implementation of the app that can run on personal computers with Python installed (free).
 - **Usage:**  
   To run the application: 
    1. Download `Python.py` from the repository.
